@@ -11,6 +11,7 @@
   "author": "Jose Höwer",
   "license": "MIT",
   "devDependencies": {
+    "@types/node-emoji": "^2.1.0",
     "eslint-config-upleveled": "^5.0.4",
     "typescript": "^5.2.2"
   },
